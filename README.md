@@ -1,2 +1,1 @@
-# -source
-An C language IDE
+很多年前用古老的VB6.0做的简陋的C语言文本编辑器,最大兼容仅为WindowsXp SP3,权当留作纪念放在这里
